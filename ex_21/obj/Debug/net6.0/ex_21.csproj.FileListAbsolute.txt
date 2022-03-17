@@ -1,0 +1,15 @@
+C:\Users\Image\Desktop\C#\Seminar3_Cw\ex_21\obj\Debug\net6.0\ex_21.csproj.AssemblyReference.cache
+C:\Users\Image\Desktop\C#\Seminar3_Cw\ex_21\obj\Debug\net6.0\ex_21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Image\Desktop\C#\Seminar3_Cw\ex_21\obj\Debug\net6.0\ex_21.AssemblyInfoInputs.cache
+C:\Users\Image\Desktop\C#\Seminar3_Cw\ex_21\obj\Debug\net6.0\ex_21.AssemblyInfo.cs
+C:\Users\Image\Desktop\C#\Seminar3_Cw\ex_21\obj\Debug\net6.0\ex_21.csproj.CoreCompileInputs.cache
+C:\Users\Image\Desktop\C#\Seminar3_Cw\ex_21\bin\Debug\net6.0\ex_21.exe
+C:\Users\Image\Desktop\C#\Seminar3_Cw\ex_21\bin\Debug\net6.0\ex_21.deps.json
+C:\Users\Image\Desktop\C#\Seminar3_Cw\ex_21\bin\Debug\net6.0\ex_21.runtimeconfig.json
+C:\Users\Image\Desktop\C#\Seminar3_Cw\ex_21\bin\Debug\net6.0\ex_21.dll
+C:\Users\Image\Desktop\C#\Seminar3_Cw\ex_21\bin\Debug\net6.0\ex_21.pdb
+C:\Users\Image\Desktop\C#\Seminar3_Cw\ex_21\obj\Debug\net6.0\ex_21.dll
+C:\Users\Image\Desktop\C#\Seminar3_Cw\ex_21\obj\Debug\net6.0\refint\ex_21.dll
+C:\Users\Image\Desktop\C#\Seminar3_Cw\ex_21\obj\Debug\net6.0\ex_21.pdb
+C:\Users\Image\Desktop\C#\Seminar3_Cw\ex_21\obj\Debug\net6.0\ex_21.genruntimeconfig.cache
+C:\Users\Image\Desktop\C#\Seminar3_Cw\ex_21\obj\Debug\net6.0\ref\ex_21.dll
