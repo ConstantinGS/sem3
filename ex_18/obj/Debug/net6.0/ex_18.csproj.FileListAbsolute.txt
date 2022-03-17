@@ -1,0 +1,15 @@
+C:\Users\Image\Desktop\C#\Seminar3_Cw\ex_18\bin\Debug\net6.0\ex_18.exe
+C:\Users\Image\Desktop\C#\Seminar3_Cw\ex_18\bin\Debug\net6.0\ex_18.deps.json
+C:\Users\Image\Desktop\C#\Seminar3_Cw\ex_18\bin\Debug\net6.0\ex_18.runtimeconfig.json
+C:\Users\Image\Desktop\C#\Seminar3_Cw\ex_18\bin\Debug\net6.0\ex_18.dll
+C:\Users\Image\Desktop\C#\Seminar3_Cw\ex_18\bin\Debug\net6.0\ex_18.pdb
+C:\Users\Image\Desktop\C#\Seminar3_Cw\ex_18\obj\Debug\net6.0\ex_18.csproj.AssemblyReference.cache
+C:\Users\Image\Desktop\C#\Seminar3_Cw\ex_18\obj\Debug\net6.0\ex_18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Image\Desktop\C#\Seminar3_Cw\ex_18\obj\Debug\net6.0\ex_18.AssemblyInfoInputs.cache
+C:\Users\Image\Desktop\C#\Seminar3_Cw\ex_18\obj\Debug\net6.0\ex_18.AssemblyInfo.cs
+C:\Users\Image\Desktop\C#\Seminar3_Cw\ex_18\obj\Debug\net6.0\ex_18.csproj.CoreCompileInputs.cache
+C:\Users\Image\Desktop\C#\Seminar3_Cw\ex_18\obj\Debug\net6.0\ex_18.dll
+C:\Users\Image\Desktop\C#\Seminar3_Cw\ex_18\obj\Debug\net6.0\refint\ex_18.dll
+C:\Users\Image\Desktop\C#\Seminar3_Cw\ex_18\obj\Debug\net6.0\ex_18.pdb
+C:\Users\Image\Desktop\C#\Seminar3_Cw\ex_18\obj\Debug\net6.0\ex_18.genruntimeconfig.cache
+C:\Users\Image\Desktop\C#\Seminar3_Cw\ex_18\obj\Debug\net6.0\ref\ex_18.dll
